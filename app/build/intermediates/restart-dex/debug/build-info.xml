@@ -4,27 +4,40 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="30507859455420"
+    timestamp="3000272068127"
     token="2270366937203910898" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="783" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="117" />
     <task
         name="verifier"
-        duration="0" />
+        duration="11" />
 
+    <artifact
+        location="/Users/rajeshnallamala/Downloads/New/EMICALCULATOR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build timestamp="2784386956629" >
+        <artifact
+            location="/Users/rajeshnallamala/Downloads/New/EMICALCULATOR/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="3000272068127" >
+        <artifact
+            location="/Users/rajeshnallamala/Downloads/New/EMICALCULATOR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
     <build timestamp="30406581826174" >
         <artifact
             location="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="30507859455420" />
 
 </instant-run>

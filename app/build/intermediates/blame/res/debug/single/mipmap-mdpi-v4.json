@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/rajeshnallamala/Downloads/New/EMICALCULATOR/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/rajeshnallamala/Downloads/New/EMICALCULATOR/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
         "source": "/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }

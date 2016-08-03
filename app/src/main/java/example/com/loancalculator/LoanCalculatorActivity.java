@@ -26,9 +26,9 @@ public class LoanCalculatorActivity extends AppCompatActivity {
 
     public void showLoanPayments(View clickedButton) {
 
-        double loanAmount = Integer.parseInt(mLoanAmount.getText().toString());
-        double interestRate = (Integer.parseInt(mInterestRate.getText().toString()));
-        double loanPeriod = Integer.parseInt(mLoanPeriod.getText().toString());
+        double loanAmount = Double.parseDouble(mLoanAmount.getText().toString());
+        double interestRate = (Double.parseDouble(mInterestRate.getText().toString()));
+        double loanPeriod = Double.parseDouble(mLoanPeriod.getText().toString());
         double r = interestRate/1200;
         double r1 = Math.pow(r+1,loanPeriod);
 
