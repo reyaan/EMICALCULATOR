@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rajeshnallamala/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_663f46f50321df154ebb6f9977d0a1e5ee91e8e7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_e63ee3cc67a42ad8f85f3038f492822261e12235/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_cdd13bcacbb47361646e20d5a095fb13ea763d69/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_d1a4f6f551083c53914deb3ac7748fd0457ef1a7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_df44fb2f01c58a15e803b2175013f55ee5e85bc5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_f0cbbdfbd097436eb7bc47b379ac5bd97478f1b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9c4b49cb64ae3ca4978abd46d8e89fc32026787d">
+        <dex dex="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb427110d057a4776f42b7813767e590092120dc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="566d9753953885c4ce29b92dc55d43baada7dc1c">
+        <dex dex="/Users/rajeshnallamala/Downloads/New/LoanCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_adee2908bcb2e66ebbe328489322bedd2161ec00/classes.dex" />
+    </item>
+
+</items>
